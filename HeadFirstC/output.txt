@@ -1,0 +1,6 @@
+Name: Delfino Isle
+ open: 09:00-17:00
+Name: Angel Island
+ open: 09:00-17:00
+Name: Buckalis Island 
+ open: 09:00-17:00
